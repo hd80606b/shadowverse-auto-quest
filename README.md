@@ -1,6 +1,6 @@
 # shadowverse-auto-quest
 
-<h4>实现自动周回影之诗（国际服）的特殊quest与特殊questd电脑卡组修改</h4>
+<h4>实现自动周回影之诗（国际服）的特殊quest与特殊quest电脑卡组修改</h4>
 <h4>如果之后有特殊quest，此项目依旧会进行更新</h4>
 
 ## 原理
