@@ -10,7 +10,7 @@
 
 ### 操作
 
-* 直接将UnityEX里改好的两个后缀为Unlity文件放入影之诗数据目录的a目录里（如C:\Users\AppData\LocalLow\Cygames\Shadowverse\a）<br />
+* 直接将UnityEX文件夹里改好的两个后缀为Unlity文件放入影之诗数据目录的a目录里（如C:\Users\AppData\LocalLow\Cygames\Shadowverse\a）<br />
 - 开游戏，选项里调整影之诗的解析度（分辨率）为1360X768<br />
 * 开程序，输入循环次数，检测窗体（程序）<br />
 - quest界面选臭鼬，在决定是否留卡的界面点击“执行”按钮<br />
